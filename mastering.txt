@@ -27,9 +27,7 @@ public static getMasterByLocal(int a) {
  return a*5;
 }
 
-<<<<<<< Updated upstream
+
 NNN
 N1N1N1
-=======
 XYZ
->>>>>>> Stashed changes
