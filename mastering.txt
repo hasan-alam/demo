@@ -28,7 +28,6 @@ public static getMasterByLocal(int a) {
 }
 
 
-
 MMM
 NNN
 N1N1N1
