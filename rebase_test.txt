@@ -1,0 +1,45 @@
+1
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+P
+P1
+<<<<<<< HEAD
+=======
+P
+P1
+>>>>>>> 9ab263e87f4765523644c61f850ebecbfbb1865b
+P2
+2
+Q
+Q1
+3
+R
+R1
+<<<<<<< HEAD
+Q
+Q1
+3
+R
+R1
+=======
+=======
+P
+>>>>>>> 4f6eb0d (pqr added)
+=======
+>>>>>>> 817da75 (p1q1r1 added)
+2
+Q
+Q1
+3
+<<<<<<< HEAD
+>>>>>>> b1f187d (rebase-test)
+=======
+R
+<<<<<<< HEAD
+>>>>>>> 4f6eb0d (pqr added)
+=======
+R1
+>>>>>>> 817da75 (p1q1r1 added)
+=======
+>>>>>>> 9ab263e87f4765523644c61f850ebecbfbb1865b
