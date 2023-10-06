@@ -12,3 +12,6 @@ NEWB2
 NEWB2_5
 NEWB3
 NEWB4
+public static getNewbByRemote(Double x) {
+ return x/5;
+}
