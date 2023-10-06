@@ -1,20 +1,23 @@
 1
 a
 a1
+a2
+a3
 p
 p1
-a2
 2
 b
 b1
 b2
+b3
 q
 q1
 3
 c
+c1
+c2
+c3
 c3
 r
 r1
-c1
-c2
 
