@@ -9,5 +9,6 @@
 <p1> This paragraph is added by another user</p>
 <p> This is a paragraph</p>
 <b> bold in master </b>
+<b> bold in master by another user </b>
 </body>
 </html>
