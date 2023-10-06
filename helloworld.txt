@@ -2,9 +2,12 @@
 a
 a1
 a2
+<<<<<<< HEAD
 a3
 p
 p1
+=======
+>>>>>>> 13251d8 (Update helloworld.txt)
 2
 b
 b1
@@ -16,8 +19,11 @@ q1
 c
 c1
 c2
+<<<<<<< HEAD
 c3
 c3
 r
 r1
+=======
+>>>>>>> 13251d8 (Update helloworld.txt)
 
