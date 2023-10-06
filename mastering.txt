@@ -26,3 +26,5 @@ public static getNewbByRemote(Integer x) {
 public static getMasterByLocal(int a) {
  return a*5;
 }
+
+MMM
