@@ -2,39 +2,21 @@
 a
 a1
 a2
-<<<<<<< HEAD
-<<<<<<< HEAD
 a3
 p
 p1
-=======
->>>>>>> 13251d8 (Update helloworld.txt)
-=======
-a3
->>>>>>> 9ab263e (a3b3c3)
 2
 b
 b1
 b2
 b3
-<<<<<<< HEAD
 q
 q1
-=======
->>>>>>> 9ab263e (a3b3c3)
 3
 c
 c1
 c2
-<<<<<<< HEAD
-<<<<<<< HEAD
-c3
 c3
 r
 r1
-=======
->>>>>>> 13251d8 (Update helloworld.txt)
-=======
-c3
->>>>>>> 9ab263e (a3b3c3)
 
