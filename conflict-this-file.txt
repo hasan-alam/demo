@@ -4,7 +4,11 @@
 <h1>Hello World from master</h1>
 <h1>Hello World from branch</h1>
 <h1>Ok here another commit from master</h1>
-<p1> This paragraph is added by another user</p>
+<p> This paragraph is added by another user</p>
+<ul>
+	<li>A</li>
+	<li>B</li>
+</ul>	
 <p> This is paragraph is used by me</p>
 <p> This is a paragraph</p>
 <b> bold in master </b>
