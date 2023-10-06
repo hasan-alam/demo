@@ -9,6 +9,10 @@
 	<li>A</li>
 	<li>B</li>
 </ul>	
+<a href="www.google.com">Click me</a>
+<div>
+ <input type="button">Submit</input>
+</div>
 <p> This is paragraph is used by me</p>
 <p> This is a paragraph</p>
 <b> bold in master </b>
