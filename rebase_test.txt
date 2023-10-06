@@ -1,5 +1,6 @@
 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 P
 P1
 P2
@@ -15,6 +16,14 @@ Q1
 R
 R1
 =======
+=======
+P
+>>>>>>> 4f6eb0d (pqr added)
 2
+Q
 3
+<<<<<<< HEAD
 >>>>>>> b1f187d (rebase-test)
+=======
+R
+>>>>>>> 4f6eb0d (pqr added)
