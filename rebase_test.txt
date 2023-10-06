@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 P
 P1
+<<<<<<< HEAD
 P2
 2
 Q
@@ -19,11 +20,18 @@ R1
 =======
 P
 >>>>>>> 4f6eb0d (pqr added)
+=======
+>>>>>>> 817da75 (p1q1r1 added)
 2
 Q
+Q1
 3
 <<<<<<< HEAD
 >>>>>>> b1f187d (rebase-test)
 =======
 R
+<<<<<<< HEAD
 >>>>>>> 4f6eb0d (pqr added)
+=======
+R1
+>>>>>>> 817da75 (p1q1r1 added)
