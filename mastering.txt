@@ -15,3 +15,7 @@ NEWB4
 public static getNewbByRemote(Double x) {
  return x/5;
 }
+public static getNewbByRemote(Integer x) {
+ return x+5;
+}
+
