@@ -10,5 +10,6 @@
 <b> bold in master </b>
 <b> bold in master by another user </b>
 <b>Fisrt bold in branch</p>
+<b>Second bold in branch</p>
 </body>
 </html>
