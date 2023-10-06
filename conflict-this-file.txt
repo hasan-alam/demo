@@ -1,6 +1,7 @@
 <html>
 <body>
 <h1>Hello World</h1>
+<h1>Hello World from master</h1>
 <h1>Ok here another commit from master</h1>
 <p1> This paragraph is added by another user</p>
 <p> This is paragraph is used by me</p>
